@@ -1,4 +1,4 @@
-Creo una tabella su draw.io
+Creo una tabella su draw.io che andrà usata per memorizzare tutti i dati riguardanti delle auto usate messe in vendita da un concessionario.
 
 Nella tabella uso 2 colonne.
 La colonna di sinistra PK (primary key) è adibita ad identificatore.
